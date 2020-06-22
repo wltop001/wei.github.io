@@ -11,40 +11,6 @@ type: page
 
 ## 工具
 
-* [box-shadow generator](http://www.cssmatic.com/box-shadow)
-
-    生成 box-shadow 的工具。
-
-* [gradient-generator](http://www.cssmatic.com/gradient-generator)
-
-    渐变生成器。
-
-* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
-
-    也是渐变生成器
-
-* [CSS Generators -CSSREFLEX](http://www.cssreflex.com/css-generators/)
-
-    CSS3 生成器
-
-- [tiny png](https://tinypng.com/)
-
-    用于压缩 png 或 jpg 的在线工具
-
-* [图床 https://sm.ms/](https://sm.ms/)
-
-    有 API 可用。
-
-* [新浪微博图床 Chrome扩展](https://github.com/Suxiaogang/WeiboPicBed)
-
-* [Unix 时间戳 Unix timestamp](http://tool.chinaz.com/Tools/unixtime.aspx)
-
-- [在线正则表达式匹配](https://regex101.com/)
-    - 这个功能更强大一点，能清楚的区分出贪婪和懒惰正则。
-- [http://regexr.com/](http://regexr.com/)
-- [google fonts](https://fonts.google.com/)
-  - [Google Fonts 加速代理](https://fengmk2.com/blog/2016/google-fonts-mirror)
-
 ## 编程语言
 
 ### JavaScript
@@ -65,24 +31,6 @@ type: page
 
 * [JavaScript 设计模式 系列 AlloyTeam](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/)
 
-### ES2015
-
-- [https://tc39.github.io/ecma262/](https://tc39.github.io/ecma262/)
-* [http://www.ecma-international.org/ecma-262/6.0/](http://www.ecma-international.org/ecma-262/6.0/)
-
-    ES2015规范
-
-- [http://es6katas.org/](http://es6katas.org/)
-
-    Learn ES6 by doing it. Fix failing tests. Keep all learnings.
-
-* [30分钟掌握ES6/ES2015核心内容（上）](http://segmentfault.com/a/1190000004365693)
-
-* [30分钟掌握ES6/ES2015核心内容（下）](http://segmentfault.com/a/1190000004368132)
-
-* [《ECMAScript 6入门》 -阮一峰](https://github.com/ruanyf/es6tutorial)
-
-* [EcmaScript6 全规范（含node） -ouvens](https://github.com/ouvens/es6-code-style-guide)
 
 ### NodeJS
 
@@ -164,54 +112,8 @@ type: page
 
   A simple vanilla JS script to animate scrolling to anchor links.
 
-## 模块化
-
-* [后端程序员的 JavaScript 之旅 - 模块化（一）](http://lishaopeng.com/2016/02/05/js-module/)
-* [后端程序员的 JavaScript 之旅 - 模块化（二）](http://lishaopeng.com/2016/02/11/js-module2/)
-* [后端程序员的 JavaScript 之旅 - 模块化（三）](http://lishaopeng.com/2016/02/19/js-module3/)
-
-* [CommonJS 规范 -来自 阮一峰 JavaScript 标准参考教程(alpha)](http://javascript.ruanyifeng.com/nodejs/module.html)
-
-## other articles
-
-- [<head> Cheat Sheet](http://gethead.info/)
-* [将footer固定在页面底部的实现方法](https://segmentfault.com/a/1190000004453249)
-- [HTML5 视频 By Pete LePage](https://www.html5rocks.com/zh/tutorials/video/basics/)
-
 ## 编辑器
 
-### Atom 中常用插件
-
-* auto-beautify
-* autoprefixer
-* block-comment
-* color-picker
-* docblockr
-* emmet
-* jquery-snippets
-* jshint
-* linter
-* linter-csslint
-* linter-htmlhint
-* minimap
-* minimap-git-diff
-* minimap-codeglance 滑过 minimap 显示代码
-* minimap-find-and-replace 在 minimap 中显示 `ctrl+D` 选中的内容
-* open-in-browser
-* uglify
-* active-power-mode
-* atom-terminal-panel
-* linter-scss-linter
-* atom-ternjs
-* file-icons 将图标变成彩色
-* autocomplete-paths 自动补充路径
-* symbols-tree-view A symbol treeview like taglist
-
-常用的主题：
-
-UI Theme: One Dark
-
-Syntax Theme: Atom Dark or One Dark
 
 ## GitBook 及其插件
 
@@ -234,61 +136,6 @@ Syntax Theme: Atom Dark or One Dark
 
     新建 tab 时，显示 dribbble 上的精选作品。
 
-## Other blogs
-
-- [COLORFUL xiaoa](http://www.xiaoa.name/)
-
-* [进击的马斯特 http://pinkyjie.com/](http://pinkyjie.com/)
-
-    马斯特，87年生人，爱溜冰的码农。技术： Javascript、Python、Mac、iOS
-
-* [Jerry Qu](https://imququ.com/)
-
-    JerryQu，奇虎 360，前端开发，前百度前端。
-
-* [码志 https://mazhuang.org/](https://mazhuang.org/)
-
-    我是马壮，码而生，码而立。就职sogou。
-
-* [小胡子哥 http://www.barretlee.com/](http://www.barretlee.com/)
-
-    李靖，阿里巴巴。
-
-* [Xcat Liu http://blog.xcatliu.com/](http://blog.xcatliu.com/)
-
-    Microsoft Software Engineer II, Meituan Senior Front-End Engineer
-
-* [极限前端 http://ouvens.github.io/](http://ouvens.github.io/)
-
-    Ouvenzhang, 前端工程师，对前端领域的技术知识具有较高的职业能力和探究精神。对响应式页面设计、工程构建组件化、mv*设计实现、前端优化、ES6开发体系等有深入的研究与项目实践。来自腾讯科技。
-
-* [凳子_Joinery 邓智容  http://www.dengzhr.com/](http://www.dengzhr.com/)
-
-* [赵达的个人网站 腾讯高级前端开发工程师](http://zhaoda.net/)
-
-* [Randy](http://djyde.github.io/)
-
-    95年出生的全栈。卢涛南，英文名 Randy，用 djyde 这个ID混迹于网络。
-
-* [JS前端开发群月报 -豪情等人维护](http://www.kancloud.cn/jsfront/month/82796)
-
-## 交互设计相关
-
-- [Framer](https://framerjs.com/)
-
-    Design the impossible with Framer
-
-- [FLINTO](https://www.flinto.com/)
-
-    App Prototyping Tools for Designers
-
-- [Principle](http://principleformac.com/)
-
-    Animate Your Ideas, Design Better Apps
-
-- [https://gyrosco.pe/](https://gyrosco.pe/)
-
-    首页的卡片翻动效果非常赞。
 
 ## Comments
 
