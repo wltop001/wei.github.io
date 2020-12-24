@@ -6,16 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: LEON的技术专栏
-brief-intro: ITSer and Coder
+title: Leon's Blog
+brief-intro: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wltop001.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #gaohaoyang126
-facebook_username: #gaohaoyang.water
 github_username:  wltop001
 email: 396783991@QQ.com
 weibo_username: 
@@ -23,7 +21,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 来自LEON的个人专栏！
+description_footer: 
 
 # comments
 # two ways to comment, only choose one, and use your own short name
